@@ -27,10 +27,14 @@ Este é um projeto simples em Java que simula um menu de banco utilizando a estr
 - 📌 Criação de menus simples no terminal
 
 ---
+🧪 Exemplo de execução
 
-## 🖥️ Como executar
+Escolha uma opção: 
+1 - Saldo conta corrente
+2 - Ver fatura do cartão
+3 - Poupança
+4 - Câmbio
 
-1. Clone este repositório ou copie o código para sua IDE Java:
+> 3
+Poupança: 5.555,63R$
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
